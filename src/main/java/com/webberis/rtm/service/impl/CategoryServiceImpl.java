@@ -13,7 +13,7 @@ public class CategoryServiceImpl implements GenericService<Category>{
 	}
 
 	public void delete(Category element) {
-		// TODO Auto-generated method stub
+	    //Esto es un cambio de prueba de GIT-HUB
 		
 	}
 
